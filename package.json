@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "hoc nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodejs pro lan dau tien"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirai-code321/nodejs-noob.git"
+  },
+  "author": "mirai'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirai-code321/nodejs-noob/issues"
+  },
+  "homepage": "https://github.com/Mirai-code321/nodejs-noob#readme"
+}
