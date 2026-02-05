@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mirai-code321/nodejs-noob/issues"
   },
-  "homepage": "https://github.com/Mirai-code321/nodejs-noob#readme"
+  "homepage": "https://github.com/Mirai-code321/nodejs-noob#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
